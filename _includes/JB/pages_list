@@ -34,6 +34,7 @@ Usage:
       {% endif %}
     {% endif %}
   {% endfor %}
+	<li><a href="https://github.com/sturgill/tiny_png">TinyPng Gem</a></li>
 {% endif %}
 {% assign pages_list = nil %}
 {% assign group = nil %}
