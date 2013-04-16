@@ -73,7 +73,9 @@ be diverse.
 This doesn't mean that I advocate "different strokes for different folks."  Being different for
 the sake of being different is probably less intelligent than just going with the crowd.  This is
 simply an open admission that the optimal way of solving problems on my team is likely to be different than the
-optimal way of solving problems on your team.
+optimal way of solving problems on your team.  The important part is making intentional decisions regarding
+how you want to go about doing business; actually sitting down and determining what's the best way
+for you to get as much out the door as cheaply as possible within an acceptable fault-tolerance variance.
 
 Tools and methods help me get what I want - and I use them in order to get the highest return on my time
 and money as possible.  I use them to get stuff done.
