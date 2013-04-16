@@ -47,3 +47,5 @@ those dollars back.
 So in the world of tech entrepreneurship, where being first-to-market is one of the few competitive
 advantages you can hope for, where the world moves fast and you're expected to be nimble, and where
 all that matters is how much money you have in the bank, be smart about where, when, and what you test.
+
+**UPDATE:** Check out the additional discussion had on [Hacker News](https://news.ycombinator.com/item?id=5554600).
