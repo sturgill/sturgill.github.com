@@ -54,7 +54,7 @@ in so many that are absolute time-sinks).  I get the morning standup, I love you
 use it.  And I'm still going to sleep well tonight...
 
 At the end of the day, all I really care about is getting stuff done.  From the services I use (from Mixpanel
-to Geckoboard to Lighthouse to GitHub) to the development practices I enforce (peer-reviwed code and 
+to Geckoboard to Lighthouse to GitHub) to the development practices I enforce (peer-reviewed code and 
 [problem ownership]({% post_url 2013-04-11-why-i-code %})) - what matters is getting
 the best return on our investment.  For example, I *really* want to like GitHub Issues.  I *really* want
 to be able use it as our team's main ticketing agent for our private repo.  But Lighthouse is still more
