@@ -70,12 +70,16 @@ manager is different.  And as we're all working on different projects, and we al
 it would seem logical that the optimal way for our disparate groups to achieve maximum efficiency would
 be diverse.
 
-This doesn't mean that I advocate "different strokes for different folks."  Being different for
-the sake of being different is probably less intelligent than just going with the crowd.  This is
-simply an open admission that the optimal way of solving problems on my team is likely to be different than the
-optimal way of solving problems on your team.  The important part is making intentional decisions regarding
-how you want to go about doing business; actually sitting down and determining what's the best way
-for you to get as much out the door as cheaply as possible within an acceptable fault-tolerance variance.
+But even as a I say this, something inside of me cringes. I'm not one of those that believes in being
+different just to buck the status quo, and I fear being misconstrued for one of those types of people.
+I find those people obnoxious, almost more so than those who justify business decisions because "that's
+how everyone is doing it."
 
-Tools and methods help me get what I want - and I use them in order to get the highest return on my time
-and money as possible.  I use them to get stuff done.
+This is simply an open admission that the optimal way of solving problems on my team is likely to be different
+than the optimal way of solving problems on your team.  The important part of life and business is making 
+intentional and reasoned decisions regarding what actions you want to take. In the world of web
+development, that means sitting down and determining what's the best way
+for you to get code out the door as cheaply as possible within an acceptable fault-tolerance variance.
+
+I use a variety of tools, services, and development methodologies to help me get what I want; to get the 
+highest return on my time and money as possible.  I use them to get stuff done.
