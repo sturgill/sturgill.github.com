@@ -7,7 +7,7 @@ tags: []
 ---
 {% include JB/setup %}
 
-Recently [one of my posts]({% post_url 2013-04-16-tests-are-overhyped %}) made a bit of a stir on 
+Recently [one of my posts]({% post_url 2013-04-15-tests-are-overhyped %}) made a bit of a stir on 
 [Hacker News](https://news.ycombinator.com/item?id=5554600). I really enjoyed the conversation that was
 had, and it got me thinking more about the whole development cycle and what we do as managers and
 development teams.  I've worn just about every hat you can imagine in the web development world, from a junior dev
@@ -35,7 +35,7 @@ use Rails in most of my web projects?  Because it improves efficiency.  I'm not 
 there are tradeoffs with a framework like Rails.  But by and large it does a great job at helping me focus
 on those parts of our software that make us different than everyone else.  It helps me do more with less.
 
-[I wrote about tests]({% post_url 2013-04-16-tests-are-overhyped %}) and I'm not interested in going
+[I wrote about tests]({% post_url 2013-04-15-tests-are-overhyped %}) and I'm not interested in going
 down that rabbit hole again this week, but my views on testing might make more sense when understood
 in this light.  I don't hate tests, and I don't hate TDD (and contrary to some in the Twitterverse, I
 do understand the difference between the two).  But I would argue that the overhead incurred from TDD
