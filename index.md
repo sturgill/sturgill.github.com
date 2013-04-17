@@ -9,7 +9,7 @@ tagline:
 	{% for post in site.posts limit 5 %}
 		<div class="blog">
 			<div class="info">
-				<span class="title">{{post.title}}</span>
+				<a href="{{ post.url }}" class="title">{{post.title}}</a>
 				<span class="date">{{post.date | date_to_string}}</span>
 			</div>
 			<div class="preview">
