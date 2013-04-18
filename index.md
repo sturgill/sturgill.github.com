@@ -1,6 +1,6 @@
 ---
 layout: page
-title: The World As A Web Developer
+title: The World Of Web Development
 tagline: 
 ---
 {% include JB/setup %}
@@ -21,5 +21,7 @@ tagline:
 </div>
 
 {% if site.posts.size > 5 %}
-<a href="/archive.html">Full blog archive</a>
+<p class="action-links">
+	<a class="archive-link" href="/archive.html">Full blog archive</a>
+</p>
 {% endif %}
