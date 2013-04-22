@@ -35,6 +35,15 @@
 
   <body>
     <div class="navbar">
+			<div class="navbar-inner elsewhere">
+				<div class="container-narrow">
+					elsewhere on the web:
+					<a href="http://twitter.com/chris_sturgill">twitter</a>
+					<a href="http://www.linkedin.com/in/chrissturgill">linkedin</a>
+					<a href="http://tumblr.thesturgills.com">tumblr</a>
+				</div>
+			</div>
+			
       <div class="navbar-inner">
         <div class="container-narrow">
           <span class="brand">
@@ -49,6 +58,23 @@
           </ul>
         </div>
       </div>
+
+			<div class="navbar-inner sub">
+				<div class="container-narrow">
+					{% if page.url == '/index.html' %}
+						<a class="active" href="{{ BASE_PATH }}/">Home</a>
+					{% else %}
+						<a href="{{ BASE_PATH }}/">Home</a>
+					{% endif %}
+
+					{% if page.url == '/archive.html' %}
+						<a class="active" href="{{ BASE_PATH }}/archive.html">Archive</a>
+					{% else %}
+						<a href="{{ BASE_PATH }}/archive.html">Archive</a>
+					{% endif %}
+				</div>
+			</div>
+    </div>
     </div>
 
     <div id="main-content" class="container-narrow">
@@ -62,11 +88,6 @@
           made much easier by <a href="http://jekyllbootstrap.com" target="_blank" title="The Definitive Jekyll Blogging Framework">Jekyll Bootstrap</a>
           and <a href="http://twitter.github.com/bootstrap/" target="_blank">Twitter Bootstrap</a>
         </p>
-				<p>
-					Connect with me online:
-					<a href="http://www.twitter.com/chris_sturgill"><img src="{{ BASE_PATH }}/assets/images/twitter-icon.png" /></a>
-					<a href="http://www.linkedin.com/in/chrissturgill"><img src="{{ BASE_PATH }}/assets/images/linkedin-icon.png" /></a>
-				</p>
       </footer>
 
     </div>
