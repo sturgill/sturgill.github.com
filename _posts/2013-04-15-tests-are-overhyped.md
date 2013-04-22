@@ -29,7 +29,7 @@ example of an interview I've had:
 the red-green cycle.  What are your thoughts on tests and how comfortable are you with that
 environment?"
 
-**Me:** "Honestly?  I think tests are highly over-hyped in the tools that we use to get products
+**Me:** "Honestly?  I think tests are highly overhyped in the tools that we use to get products
 out the door.  I believe in testing what needs to be tested, and nothing more.  Because in business,
 people buy products, not tests.  Writing tests for the sake of writing tests is a waste of my time
 and talents."
