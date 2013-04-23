@@ -4,11 +4,10 @@ title: Whelp...
 ---
 {% include JB/setup %}
 
-{% if page.url == '/Management/2013/04/11/why-i-code' %}
-<script type="text/javascript">window.location.href = '/2013/04/11/why-i-code'</script>
-{% endif %}
-
-<!--
-{{ page.url }}
--->
 <p>Well, this is a little awkward, but we can't seem to find that page.</p>
+
+<script type="text/javascript">
+	if (window.location.pathname == '/Management/2013/04/11/why-i-code') {
+		window.location.href = '/2013/04/11/why-i-code';
+	}
+</script>
